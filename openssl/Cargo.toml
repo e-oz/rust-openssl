@@ -20,7 +20,7 @@ v110 = []
 bitflags = "0.7"
 lazy_static = "0.2"
 libc = "0.2"
-openssl-sys = { version = "0.9", path = "../openssl-sys" }
+openssl-sys = { version = "0.9"}
 
 [dev-dependencies]
 rustc-serialize = "0.3"
